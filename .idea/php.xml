@@ -108,6 +108,9 @@
       <path value="$PROJECT_DIR$/app/vendor/doctrine/inflector" />
       <path value="$PROJECT_DIR$/app/vendor/doctrine/doctrine-migrations-bundle" />
       <path value="$PROJECT_DIR$/app/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/app/vendor/stof/doctrine-extensions-bundle" />
+      <path value="$PROJECT_DIR$/app/vendor/behat/transliterator" />
+      <path value="$PROJECT_DIR$/app/vendor/gedmo/doctrine-extensions" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
